@@ -1,0 +1,13 @@
+{
+  "name": "my-skills",
+  "owner": {
+    "name": "CofoundaryAX"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": "./",
+      "description": "내가 만든 Skill 모음"
+    }
+  ]
+}
